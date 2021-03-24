@@ -4,5 +4,5 @@ int main()
 {
     cout<<"Hello";
     cout<<"Hello no";
-    cout<<"test2";
+    cout<<"test1";
 }
